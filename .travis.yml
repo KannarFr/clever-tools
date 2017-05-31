@@ -3,6 +3,7 @@ node_js:
   - "4.8"
   - "6.10"
   - "7.10"
+  - "8.0"
 sudo: false
 env:
   - CC=gcc-6 CXX=g++-6
